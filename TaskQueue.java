@@ -1,4 +1,4 @@
-//Code for 
+//Code for Task Queue HackerRank Problem - Calculate time needed to process a set of tasks by the System
 import java.util.*;
 
 public class TaskQueue{
@@ -50,4 +50,4 @@ public class TaskQueue{
 }
 
 
-OUTPUT - 20
+//OUTPUT - 20
